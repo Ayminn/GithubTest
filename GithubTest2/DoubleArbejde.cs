@@ -13,6 +13,11 @@ namespace GithubTest2
         {
             Console.WriteLine("Dårlig tekst");
             Console.Read();
+
+        public void DenStoreGren()
+        {
+            Console.WriteLine("c==3");
+
         }
     }
 }
