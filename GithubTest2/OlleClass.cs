@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GithubTest2
 {
-    class DoubleArbejde
+    class OlleClass
     {
-        public void DenStoreGren()
-        {
-            Console.WriteLine("c==3");
-        }
     }
 }
