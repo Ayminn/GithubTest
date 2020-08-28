@@ -12,6 +12,7 @@ namespace GithubTest2
         public void DårligMetode()
         {
             Console.WriteLine("Dårlig tekst");
+            Console.Read();
         }
     }
 }
