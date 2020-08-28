@@ -8,5 +8,10 @@ namespace GithubTest2
 {
     class DoubleArbejde
     {
+
+        public void DårligMetode()
+        {
+            Console.WriteLine("Dårlig tekst");
+        }
     }
 }
